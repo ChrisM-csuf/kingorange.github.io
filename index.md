@@ -1,6 +1,6 @@
 <html>
     
-    <head style="background-color: aliceblue;">
+    <head style="background-color: white;">
         <style>
             .align {
                 width: inherit;
