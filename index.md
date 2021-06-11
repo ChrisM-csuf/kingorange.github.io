@@ -5,7 +5,7 @@
             .align {
                 width: inherit;
                 height: inherit;
-                background-color: aliceblue;
+                background-color: white;
             }
             .centerandscale {
                 margin: auto;
