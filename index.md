@@ -34,10 +34,11 @@
            understand and agree to the terms of this agreement. If you do not agree to the 
            terms of this agreement, you may not use the provided Wi-Fi network. Use of this
            network is at your own risk. The company is not liable for any damages incurred to 
-           the device or it’s user.
-           <br>
-           By joining this network you have indicated that you agree to these terms.
+           the device or it’s user.           
         </p>
+            <p>
+               By joining this network you have indicated that you agree to these terms.
+            </p>
         </div>
     </body>
     
